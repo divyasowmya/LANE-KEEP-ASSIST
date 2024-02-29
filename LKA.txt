@@ -1,0 +1,3 @@
+By implementing this functionality, the system adapts to various driving scenarios and aims to provide a better balance between driver assistance and driver control, potentially leading to improved safety and user experience.
+
+It is crucial to remember that LKA remains a supportive feature, and drivers are still responsible for staying alert and in control of the vehicle at all times
