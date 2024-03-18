@@ -1,0 +1,7 @@
+public class ObstacleDetection {
+    public static void main(String[] args) {
+        System.out.println("[TASK-17614] Define deactivation criteria based on driver input (e.g., manual steering, turn signal activation) 
+");
+       
+    }
+}
